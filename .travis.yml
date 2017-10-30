@@ -1,2 +1,2 @@
 language: objective-c
-xcode_project: Flycut.xcodeproj
+xcode_workspace: Flycut.xcodeproj
